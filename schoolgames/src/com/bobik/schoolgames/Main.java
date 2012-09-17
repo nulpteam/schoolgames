@@ -2,6 +2,6 @@ package com.bobik.schoolgames;
 
 public class Main {
 /**
- * test000
+ * 1234
  */
 }
